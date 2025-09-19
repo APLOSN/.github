@@ -1,12 +1,39 @@
-## Hi there 👋
+# 🌐 APLOSN – Association for the Promotion of Free Software, Open Source & Digital Sovereignty  
 
-<!--
+## 🚀 Who We Are  
+**APLOSN** is a community-driven association that believes in the power of **free software, open source, and digital sovereignty**.  
+We stand for:  
+✨ Technological independence  
+🔒 Data protection  
+💡 Freedom to innovate  
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🎯 Our Mission  
+- 🔎 **Promote** free & open-source software to the public, companies, and institutions.  
+- 🧠 **Raise awareness** about digital sovereignty & the risks of tech dependency.  
+- 🛠️ **Support** the transition to privacy-friendly & open standards solutions.  
+- 📚 **Educate & share knowledge** through workshops, talks, and guides.  
+
+---
+
+## 💥 What We Do  
+- 🎤 Host **conferences & hands-on workshops**  
+- 🤝 Collaborate with **open-source communities & associations**  
+- 👨‍💻 Launch **collaborative projects** (dev, docs, translations)  
+- 📝 Publish **guides & tutorials** for everyone  
+
+---
+
+## 🌟 Why Join Us?  
+Becoming part of **APLOSN** means:  
+💪 Contributing to a more **open, transparent & ethical digital world**  
+🌍 Connecting with a passionate and skilled community  
+🇪🇺 Making a real impact on **digital sovereignty in France & Europe**  
+
+---
+
+## 📬 Get in Touch  
+🌐 Website: https://aplosn.fr
+📧 Email: contact@aplosn.fr
+📱 Socials: https://www.linkedin.com/company/aplosn
